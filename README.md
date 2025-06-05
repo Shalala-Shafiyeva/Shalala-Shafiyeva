@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 🌱 I’m currently learning typescript,<br>- 💬 Ask me about react, javascript, php<br>- 📫 How to reach me: shalala.shafiyeva23@gmail.com<br>- 😄 Pronouns: Şəlalə
 </div>
 ###
-
+<br>
 <div align="left">
-## 🚀 My Tech Stack  
+🚀 My Tech Stack  
 
 ### 🖥 **Frontend Development**  
 <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=E34F26&logoColor=white&style=for-the-badge" height="30" alt="HTML5" />
@@ -46,9 +46,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&style=for-the-badge" height="30" alt="Figma" />
 
 </div>
-<div>
+<br>
+<br>
+<div >
 ---
 ⭐ Feel free to explore my repositories and connect with me!**  
 </div>
-###
 <br clear="both">
