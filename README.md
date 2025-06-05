@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="left">Hi 👋! My name is Shalala and I'm a web developer</h1>
 
 ###
-<h3 align="center">💻 A web developer who turns ideas into code  </h3><h3>🚀 I love creating user-friendly, fast and modern web solutions</h3>
+<h3>💻 A web developer who turns ideas into code </h3><h3>🚀 I love creating user-friendly, fast and modern web solutions</h3>
 ###
 <div>
 🌱 I’m currently learning typescript,<br>- 💬 Ask me about react, javascript, php<br>- 📫 How to reach me: shalala.shafiyeva23@gmail.com<br>- 😄 Pronouns: Şəlalə
@@ -44,8 +44,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="30" alt="GitHub" />
 <img src="https://img.shields.io/static/v1?message=VSCode&logo=visualstudiocode&label=&color=0078D4&logoColor=white&style=for-the-badge" height="30" alt="VSCode" />
 <img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&style=for-the-badge" height="30" alt="Figma" />
+
+</div>
+<div>
 ---
-⭐ **Feel free to explore my repositories and connect with me!**  
+⭐ Feel free to explore my repositories and connect with me!**  
 </div>
 ###
 <br clear="both">
